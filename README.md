@@ -40,7 +40,7 @@ python3 main.py
 
 ## Deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrh0wl/duestrailbot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ROYALBOY871/duestrailbot/tree/master)
 
 ## Deploy on Railway
 
